@@ -1,3 +1,10 @@
+## 📸 Sistemden Görüntüler
+
+![77-MMD Operasyon Ekranı](images/dashboard.png)
+*Şekil 1: YILDIRIM v8 Hipersonik Balistik Analiz Ekranı*
+
+![AVCI Sızma Rotası](images/rota.png)
+*Şekil 2: AVCI V12 Otonom Radar Atlatma Manevraları*
 # 🚀 77-MMD: Milli Beka ve Stratejik Darbe Sistemi
 
 **77-MMD (Milli Muharebe Dashboard)**; otonom bir SEAD drone'u olan **AVCI V12** ile hipersonik balistik füze sistemi **YILDIRIM v8**'in entegre harekat konseptini simüle eden bir komuta kontrol yazılımıdır.
