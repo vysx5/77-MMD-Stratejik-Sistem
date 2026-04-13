@@ -1,9 +1,9 @@
 ## 📸 Sistemden Görüntüler
 
-![77-MMD Operasyon Ekranı](images/dashboard.png)
+![77-MMD Operasyon Ekranı](gosterge%20paneli.png.png)
 *Şekil 1: YILDIRIM v8 Hipersonik Balistik Analiz Ekranı*
 
-![AVCI Sızma Rotası](images/rota.png)
+![AVCI Sızma Rotası](rota.png.png)
 *Şekil 2: AVCI V12 Otonom Radar Atlatma Manevraları*
 # 🚀 77-MMD: Milli Beka ve Stratejik Darbe Sistemi
 
